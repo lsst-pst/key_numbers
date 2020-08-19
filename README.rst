@@ -13,11 +13,11 @@ Inputs
 
 To date there have been several reference documents quoting the baseline configuration and key numbers. All should be reviewed, the relevant information migrated to this repository and then deprecated. 
 
-* `LSST Key Numbers confluence <https://confluence.lsstcorp.org/display/LKB/LSST+Key+Numbers>` LSST Key System Parameters Summary
-*`Document-16 <https://docushare.lsst.org/docushare/dsweb/Get/Document-16>` excel spreadsheet contains the LSST baseline configuration from 2009-04. 
-*`Document-4169 <https://docushare.lsst.org/docushare/dsweb/Get/Document-4169>` excel spreadsheet contains the LSST baseline configuration from 2009-04. 
-*`Document-16168 <https://docushare.lsst.org/docushare/dsweb/Services/Document-16168>`
-*`Collection-886 <https://www.lsstcorp.org/docushare/dsweb/View/Collection-886>`
+* `LSST Key Numbers confluence <https://confluence.lsstcorp.org/display/LKB/LSST+Key+Numbers>`_ LSST Key System Parameters Summary
+* `Document-16 <https://docushare.lsst.org/docushare/dsweb/Get/Document-16>`_ excel spreadsheet contains the LSST baseline configuration from 2009-04. 
+* `Document-4169 <https://docushare.lsst.org/docushare/dsweb/Get/Document-4169>`_ excel spreadsheet contains the LSST baseline configuration from 2009-04. 
+* `Document-16168 <https://docushare.lsst.org/docushare/dsweb/Services/Document-16168>`_
+* `Collection-886 <https://www.lsstcorp.org/docushare/dsweb/View/Collection-886>`_
 
 LSST throughput curves are described in https://github.com/lsst/throughputs/tree/master/baseline
 
