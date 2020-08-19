@@ -31,9 +31,9 @@ A pdf document of the numbers in this repository can be generated for versioning
 TODO
 ####
 
- * The information from Document-16 needs to be reviewed. Informatin that is stil lrelevant should be migrated to this repository and the Document-16 deprecated. 
- * The original confluence page is very DM and data-volume centric. Should add basic metrics on collecting area, image quality, etc., to make it a more community-useful data sheet as well as a better resource for preparing and fact-checking talks.
- * Add nominal camera numbers, e.g number/pixel count of CCDs, oixel scale, readnoise, dark current, non-linearity, full well depth,  cross-talk, QE(lambda), lens reflectivities, expected gain. (Steve R added some already to the confluence page)
+* The information from Document-16 needs to be reviewed. Informatin that is stil lrelevant should be migrated to this repository and the Document-16 deprecated. 
+* The original confluence page is very DM and data-volume centric. Should add basic metrics on collecting area, image quality, etc., to make it a more community-useful data sheet as well as a better resource for preparing and fact-checking talks.
+* Add nominal camera numbers, e.g number/pixel count of CCDs, oixel scale, readnoise, dark current, non-linearity, full well depth,  cross-talk, QE(lambda), lens reflectivities, expected gain. (Steve R added some already to the confluence page)
 
 
 ###########
