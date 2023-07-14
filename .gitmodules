@@ -1,0 +1,3 @@
+[submodule "throughputs"]
+	path = throughputs
+	url = https://github.com/lsst/throughputs
